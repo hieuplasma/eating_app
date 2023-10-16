@@ -3,7 +3,7 @@ import React from "react";
 import { Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
-export const RecentDishes = React.memo(() => {
+export const SavedDishes = React.memo(() => {
     return (
         <SafeAreaView style={[
             viewStyle.container,
