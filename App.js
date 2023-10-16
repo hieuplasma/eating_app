@@ -59,7 +59,7 @@ class App extends React.PureComponent {
             <StatusBar barStyle={'light-content'} />
             <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
               <Text>
-                {"Ăn gì hôm nay"}
+                {"Món ngon hôm nay"}
               </Text>
             </View>
           </PersistGate>
